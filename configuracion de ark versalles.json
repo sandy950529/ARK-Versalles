@@ -1,0 +1,42 @@
+{
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": false,
+            "HideIconAfter": 60,
+            "IconURL": "https://i.imgur.com/yBxAXeV.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "<RichColor Color=\"0,0,1,1\">Como usar los kits gratuitos y mucho mas</>",
+                    "title1": "<RichColor Color=\"0,0,1,1\">¿Es tu primera vez en ArkVersalles x15?</>",
+                    "text1": "<RichColor Color=\"1,1,1,1\">Busca en tu inventario el icono con forma de casa para acceder a la tienda de monedas ingame, puedes usar kits gratis y comprar recursos, dinos y muchas mas cosas.\n\nLos dinos se compran ingame, con monedas que recibes cada 10 minutos.</>",
+                    "imageurl": "https://i.imgur.com/yBxAXeV.png"
+                },
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "Reglas del Servidor",
+                    "title1": "Reglas del Servidor:",
+                    "text1": ".................",
+                    "imageurl": "https://i.imgur.com/yBxAXeV.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/NTpXsy75"
+                }
+            }
+        ]
+    }
+}
